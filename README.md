@@ -1,4 +1,4 @@
-# PickingObjectsFromList
+# Picking Objects From List
 
 ## Opgave A
 Liste af int { 4, 7 , 12, 17, -3, 8, 0, -45, 101}
